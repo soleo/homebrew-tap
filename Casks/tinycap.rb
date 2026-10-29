@@ -1,6 +1,6 @@
 cask "tinycap" do
-  version "0.3.0"
-  sha256 "ea8a06019387d22d4da8f7e95c44d6b3515ff3298c8d1cd97f3fd34a3ab1b5e2"
+  version "0.4.0"
+  sha256 "4d771174860e148f75b1830e26e0e52f974d9f3774dea70301055fcc5afca0c1"
 
   url "https://github.com/soleo/tinycap/releases/download/v#{version}/Tinycap-#{version}.dmg"
   name "Tinycap"
